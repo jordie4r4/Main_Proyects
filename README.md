@@ -2,11 +2,13 @@ All my projects contains a VirusTotal Scam, with false positives, all my project
 
 (PY): Code Based Python Project.
 
-(HTML): Code Based Python Project.
+(HTML): Code Based HTML Project.
 
-(C++): Code Based Python Project.
+(C++): Code Based C++ Project.
 
-(JAVA): Code Based Python Project.
+(JAVA): Code Based JavaScript Project.
+
+(C#): Code Based C#, Visual Studio.
 
 (OPT): Resources or Helpfull tools that you will find Interesting.
 
